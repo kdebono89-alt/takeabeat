@@ -1,14 +1,5 @@
-# Take a Beat Beta Landing Page
+# Take a Beat website
 
-Open `index.html` locally to preview the site.
+Published with GitHub Pages from main. Beta interest submissions use the existing Web3Forms account. Success is displayed only after service confirmation; failures retain the form. Signup details are retained for future beta invitations until opt-out, per Keith. See the public privacy section for provider and contact details.
 
-## Before publishing
-The beta form is intentionally front-end only. Connect `#betaForm` to your preferred form/database service before launch. Do not collect beta applications until you have somewhere appropriate to store them.
-
-## Files
-- `index.html` — page content
-- `styles.css` — responsive design
-- `script.js` — preview form behavior
-- `assets/` — Take a Beat screenshots and generated lifestyle imagery
-
-The site is static and can be hosted on any static web host.
+The seven-slide hero carousel rotates automatically every six seconds, with Pause/Play, previous/next and keyboard arrows. It pauses on hover, keyboard focus or a hidden tab, and respects reduced-motion preferences. The selected lifestyle images are illustrative. Generated source assets and prompts are preserved in the Take a Beat project.
